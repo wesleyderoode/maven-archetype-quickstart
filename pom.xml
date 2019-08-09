@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>nl.wderoode</groupId>
-  <artifactId>basic-project</artifactId>
+  <artifactId>maven-archetype-quickstart</artifactId>
   <version>1.0</version>
 
-  <name>basic-project</name>
+  <name>quickstart-project</name>
   <url>http://www.wderoode.nl/</url>
 
   <properties>
